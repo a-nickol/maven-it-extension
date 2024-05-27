@@ -32,7 +32,7 @@
 
   <groupId>com.soebes.itf.jupiter.extension</groupId>
   <artifactId>itf-extension</artifactId>
-  <version>0.14.0-SNAPSHOT</version>
+  <version>${revision}</version>
   <packaging>pom</packaging>
 
   <scm>
@@ -50,6 +50,7 @@
   </distributionManagement>
 
   <properties>
+    <revision>DEVELOP-SNAPSHOT</revision>
     <maven.compiler.release>8</maven.compiler.release>
     <maven.compiler.testRelease>17</maven.compiler.testRelease>
     <smpp.component>maven-it-extension</smpp.component>
