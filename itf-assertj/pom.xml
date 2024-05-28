@@ -13,8 +13,6 @@
 
     <artifactId>itf-assertj</artifactId>
 
-    <description>AssertJ Assertions for Maven Integration tests.</description>
-
     <dependencies>
         <dependency>
             <groupId>com.soebes.itf.jupiter.extension</groupId>
