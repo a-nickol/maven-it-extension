@@ -33,7 +33,7 @@
   <artifactId>itf-maven-plugin</artifactId>
 
   <properties>
-    <mavenMinimumVersion>3.2.5</mavenMinimumVersion>
+    <mavenMinimumVersion>3.9.9</mavenMinimumVersion>
     <!-- The same version as Maven Core 3.2.5 is using -->
     <aetherVersion>1.0.0.v20140518</aetherVersion>
   </properties>
@@ -95,7 +95,7 @@
     <dependency>
       <groupId>org.apache.maven.shared</groupId>
       <artifactId>maven-filtering</artifactId>
-      <version>3.3.1</version>
+      <version>3.4.0</version>
     </dependency>
     <dependency>
       <groupId>org.junit.jupiter</groupId>
