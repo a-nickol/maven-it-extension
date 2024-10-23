@@ -33,7 +33,7 @@
   <artifactId>itf-failure-plugin</artifactId>
 
   <properties>
-    <mavenMinimumVersion>3.2.5</mavenMinimumVersion>
+    <mavenMinimumVersion>3.9.9</mavenMinimumVersion>
   </properties>
   <dependencies>
     <dependency>
@@ -136,7 +136,7 @@
       <plugin>
         <groupId>org.codehaus.plexus</groupId>
         <artifactId>plexus-component-metadata</artifactId>
-        <version>2.1.0</version>
+        <version>2.2.0</version>
       </plugin>
     </plugins>
   </build>
